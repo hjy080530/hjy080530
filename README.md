@@ -1,4 +1,5 @@
-(https://github.com/hjy080530/hjy080530/assets/164326669/3d60314b-d170-4e23-bcc5-799abc81b5a2)
+![image](https://github.com/hjy080530/hjy080530/assets/164326669/49b9c01a-321d-468d-aa28-e587851d468e)
+
 ## 👋Hi, I'm Hwangjiyoung!!!
 - - -
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhjy080530&count_bg=%234C60B8&title_bg=%234C60B8&icon=&icon_color=%234C60B8&title=hjy080530&edge_flat=false)](https://hits.seeyoufarm.com)
