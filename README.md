@@ -1,10 +1,10 @@
 
 <a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/hjy080530"
-    width="600"
-    height="120"
-  />
+<img
+  src="https://render.gitanimals.org/farms/hjy080530"
+  width="600"
+  height="300"
+/>
 </a>
   
 ## 👋Hi, I'm Hwangjiyoung!!!
