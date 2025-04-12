@@ -1,7 +1,7 @@
 # 👋 Hi World !
 
 ## 🛠️ Tech Skill
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,js,typescript,notion,styledcomponents,solidjs,next)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,js,typescript,notion,styledcomponents,solidjs,next,figma)](https://skillicons.dev)
 
 ## 🔗 Intersted In
 [![My Skills](https://skillicons.dev/icons?i=fastapi,express,flutter,dart,astro)](https://skillicons.dev)
