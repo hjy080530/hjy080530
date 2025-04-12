@@ -1,11 +1,11 @@
+# 👋 Hi World !
 
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/hjy080530"
-  width="600"
-  height="300"
-/>
-</a>
-- - -
+## 🛠️ Tech Skill
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,js,typescript,notion,styledcomponents,solidjs,next)](https://skillicons.dev)
+
+## 🔗 Intersted In
+[![My Skills](https://skillicons.dev/icons?i=fastapi,express,flutter,dart,astro)](https://skillicons.dev)
+
+## 🏅 Stats
 [![Hwangjiyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=hjy080530&theme=synthwave)](https://github.com/hjy080530/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yuiyui)](https://solved.ac/yuiyui/)
